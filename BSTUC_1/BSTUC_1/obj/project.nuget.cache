@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qkhKBaB7wplGMyJOlRsw2iBMJ6pP4yas00TKGwN6ZbCj6p3pAh4UYY+fL2r+aEasn7CbU8Z0LKFPApxzq/xj6A==",
+  "success": true,
+  "projectFilePath": "E:\\fellowship\\DAY_15\\BSTUC_1\\BSTUC_1\\BSTUC_1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\accord\\3.8.0\\accord.3.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}
