@@ -1,0 +1,14 @@
+E:\fellowship\DAY_15\BSTUC_2\BSTUC_2\bin\Debug\netcoreapp3.1\BSTUC_2.exe
+E:\fellowship\DAY_15\BSTUC_2\BSTUC_2\bin\Debug\netcoreapp3.1\BSTUC_2.deps.json
+E:\fellowship\DAY_15\BSTUC_2\BSTUC_2\bin\Debug\netcoreapp3.1\BSTUC_2.runtimeconfig.json
+E:\fellowship\DAY_15\BSTUC_2\BSTUC_2\bin\Debug\netcoreapp3.1\BSTUC_2.runtimeconfig.dev.json
+E:\fellowship\DAY_15\BSTUC_2\BSTUC_2\bin\Debug\netcoreapp3.1\BSTUC_2.dll
+E:\fellowship\DAY_15\BSTUC_2\BSTUC_2\bin\Debug\netcoreapp3.1\BSTUC_2.pdb
+E:\fellowship\DAY_15\BSTUC_2\BSTUC_2\obj\Debug\netcoreapp3.1\BSTUC_2.csproj.AssemblyReference.cache
+E:\fellowship\DAY_15\BSTUC_2\BSTUC_2\obj\Debug\netcoreapp3.1\BSTUC_2.GeneratedMSBuildEditorConfig.editorconfig
+E:\fellowship\DAY_15\BSTUC_2\BSTUC_2\obj\Debug\netcoreapp3.1\BSTUC_2.AssemblyInfoInputs.cache
+E:\fellowship\DAY_15\BSTUC_2\BSTUC_2\obj\Debug\netcoreapp3.1\BSTUC_2.AssemblyInfo.cs
+E:\fellowship\DAY_15\BSTUC_2\BSTUC_2\obj\Debug\netcoreapp3.1\BSTUC_2.csproj.CoreCompileInputs.cache
+E:\fellowship\DAY_15\BSTUC_2\BSTUC_2\obj\Debug\netcoreapp3.1\BSTUC_2.dll
+E:\fellowship\DAY_15\BSTUC_2\BSTUC_2\obj\Debug\netcoreapp3.1\BSTUC_2.pdb
+E:\fellowship\DAY_15\BSTUC_2\BSTUC_2\obj\Debug\netcoreapp3.1\BSTUC_2.genruntimeconfig.cache
