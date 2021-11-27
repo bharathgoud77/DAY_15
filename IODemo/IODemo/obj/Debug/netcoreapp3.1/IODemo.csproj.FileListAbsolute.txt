@@ -1,0 +1,13 @@
+E:\fellowship\DAY_15\IODemo\IODemo\bin\Debug\netcoreapp3.1\IODemo.exe
+E:\fellowship\DAY_15\IODemo\IODemo\bin\Debug\netcoreapp3.1\IODemo.deps.json
+E:\fellowship\DAY_15\IODemo\IODemo\bin\Debug\netcoreapp3.1\IODemo.runtimeconfig.json
+E:\fellowship\DAY_15\IODemo\IODemo\bin\Debug\netcoreapp3.1\IODemo.runtimeconfig.dev.json
+E:\fellowship\DAY_15\IODemo\IODemo\bin\Debug\netcoreapp3.1\IODemo.dll
+E:\fellowship\DAY_15\IODemo\IODemo\bin\Debug\netcoreapp3.1\IODemo.pdb
+E:\fellowship\DAY_15\IODemo\IODemo\obj\Debug\netcoreapp3.1\IODemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\fellowship\DAY_15\IODemo\IODemo\obj\Debug\netcoreapp3.1\IODemo.AssemblyInfoInputs.cache
+E:\fellowship\DAY_15\IODemo\IODemo\obj\Debug\netcoreapp3.1\IODemo.AssemblyInfo.cs
+E:\fellowship\DAY_15\IODemo\IODemo\obj\Debug\netcoreapp3.1\IODemo.csproj.CoreCompileInputs.cache
+E:\fellowship\DAY_15\IODemo\IODemo\obj\Debug\netcoreapp3.1\IODemo.dll
+E:\fellowship\DAY_15\IODemo\IODemo\obj\Debug\netcoreapp3.1\IODemo.pdb
+E:\fellowship\DAY_15\IODemo\IODemo\obj\Debug\netcoreapp3.1\IODemo.genruntimeconfig.cache
